@@ -1,0 +1,11 @@
+Gitcommands
+-----------------------------------------------
+git init
+git status
+git add <file>   -> to add specified file 
+git add .        -> to add all files in current working directory
+git commit -m "message Tag"
+
+Syn
+git remote add origin "https://github.com/vasansapthagirivasan/devops-learning.git"
+git push origin master
